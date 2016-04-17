@@ -97,3 +97,6 @@
 
   * JSON-P  1.0  http://jcp.org/en/jsr/detail?id=353
 
+  * JDBC 4.0  https://jcp.org/en/jsr/detail?id=221
+
+  * Common Annotations for the JAVA https://jcp.org/en/jsr/detail?id=250
