@@ -101,6 +101,10 @@
 
   * Common Annotations for the JAVA https://jcp.org/en/jsr/detail?id=250
 
+  * JAX-WS 2.0 https://jcp.org/en/jsr/detail?id=224
+
+  * JAXB 2.0 https://jcp.org/en/jsr/detail?id=222
+
 ### HTTP Status Code
 
 ####1×× Informational
