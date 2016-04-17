@@ -1,6 +1,5 @@
-## Lista de Specs
- 
-  ### HTTP
+## Lista de Specs  
+### HTTP
   
   - RFC 768 (UDP: User Datagram Protocol)
   
