@@ -61,3 +61,39 @@
   - RFC 2965 (HTTP State Management Mechanism)
 
   - RFC 3174 (SHA: Secure Hash Algorithmus) 
+
+### JAVA JSR
+  * JSF    2.2    http://jcp.org/en/jsr/detail?id=344
+  
+  * JSP    2.3    http://jcp.org/en/jsr/detail?id=245
+  
+  *  JSTL   1.2    http://jcp.org/en/jsr/detail?id=52
+  
+  * Servlet 3.1   http://jcp.org/en/jsr/detail?id=340
+
+  * WebSocket 1.0  http://jcp.org/en/jsr/detail?id=356
+
+  * Expression Language  3.0  http://jcp.org/en/jsr/detail?id=341
+
+  * EJB Lite  3.2  http://jcp.org/en/jsr/detail?id=345
+
+  * JPA 2.1 http://jcp.org/en/jsr/detail?id=338
+
+  * JTA 1.2 http://jcp.org/en/jsr/detail?id=907
+
+  * Bean Validation 1.1 http://jcp.org/en/jsr/detail?id=349
+
+  * Managed Beans 1.0 http://jcp.org/en/jsr/detail?id=316
+
+  * Interceptors 1.2 http://jcp.org/en/jsr/detail?id=318
+
+  * Contexts and Dependency 1.1 http://jcp.org/en/jsr/detail?id=346
+
+  * InjectionDependency Injection for Java 1.0 http://jcp.org/en/jsr/detail?id=330
+
+  * Debugging Support for Other 1.0 http://jcp.org/en/jsr/detail?id=45
+
+  * JAX-RS 2.0 http://jcp.org/en/jsr/detail?id=339
+
+  * JSON-P  1.0  http://jcp.org/en/jsr/detail?id=353
+
