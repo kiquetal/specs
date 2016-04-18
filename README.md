@@ -3,7 +3,7 @@
   
   - RFC 768 (UDP: User Datagram Protocol)
   
-  - RFC 791 (IP: Internet Protokol)
+  - RFC 791 (IP: Internet Protocol)
   
   - RFC 792 (ICMP: Internet Control Message Protocol)
 
