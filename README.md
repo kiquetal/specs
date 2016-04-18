@@ -104,6 +104,9 @@
   * JAX-WS 2.0 https://jcp.org/en/jsr/detail?id=224
 
   * JAXB 2.0 https://jcp.org/en/jsr/detail?id=222
+  
+  * JavaMail 2.0 https://jcp.org/en/jsr/detail?id=919: 
+  
 
 ### HTTP Status Code
 
